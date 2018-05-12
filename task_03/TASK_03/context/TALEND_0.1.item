@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_h2QEoFXpEeiqrKW2bcoyLA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_h2QEoVXpEeiqrKW2bcoyLA" comment="" name="TALEND_Server" prompt="TALEND_Server?" promptNeeded="false" type="id_String" value="192.168.56.1"/>
+  <contextParameter xmi:id="_h2QEolXpEeiqrKW2bcoyLA" comment="" name="TALEND_Login" prompt="TALEND_Login?" promptNeeded="false" type="id_String" value="TALEND"/>
+  <contextParameter xmi:id="_h2QEo1XpEeiqrKW2bcoyLA" comment="" name="TALEND_Schema" prompt="TALEND_Schema?" promptNeeded="false" type="id_String" value="TALEND"/>
+  <contextParameter xmi:id="_h2QEpFXpEeiqrKW2bcoyLA" comment="" name="TALEND_Port" prompt="TALEND_Port?" promptNeeded="false" type="id_String" value="1521"/>
+  <contextParameter xmi:id="_h2QEpVXpEeiqrKW2bcoyLA" comment="" name="TALEND_AdditionalParams" prompt="TALEND_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_h2QEplXpEeiqrKW2bcoyLA" comment="" name="TALEND_ServiceName" prompt="TALEND_ServiceName?" promptNeeded="false" type="id_String" value="orcl"/>
+  <contextParameter xmi:id="_h2QEp1XpEeiqrKW2bcoyLA" comment="" name="TALEND_Password" prompt="TALEND_Password?" promptNeeded="false" type="id_Password" value="YOT7pqLAIOU="/>
+</talendfile:ContextType>

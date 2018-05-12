@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_1VOaIFUKEeiuGu3NoKmY8g" confirmationNeeded="false" name="div">
+  <contextParameter xmi:id="_1VOaIVUKEeiuGu3NoKmY8g" comment="" name="Folder" prompt="Folder?" promptNeeded="true" type="id_String" value="D:\talend\Topic 03\input"/>
+</talendfile:ContextType>
