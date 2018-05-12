@@ -1,0 +1,3 @@
+{
+  "mvn:org.talend.libraries/commons-codec-1.11/6.0.0-SNAPSHOT/jar" : "mvn:<groupid>/<artifactId>/<version>/<type>"
+}

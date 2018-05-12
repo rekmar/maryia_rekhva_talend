@@ -1,0 +1,4 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="ParseFilePath.getFileName(((String)globalMap.get(&quot;tFileInputRaw_1_FILENAME_PATH&quot;)))">
+  <variables name="row1.content" value="null" talendType="id_Object" nullable="true"/>
+</expression:EMFExpression>
