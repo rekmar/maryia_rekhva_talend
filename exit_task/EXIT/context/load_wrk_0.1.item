@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_XYRgAFdAEeiBXatqzPPj_g" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_XYRgAVdAEeiBXatqzPPj_g" comment="" name="folder" prompt="folder?" promptNeeded="true" type="id_String" value="D:\talend\Topic 05 Exit Task\input"/>
+</talendfile:ContextType>
